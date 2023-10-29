@@ -1,2 +1,4 @@
 # git-self-practice
-some changes 
+
+some changes
+some more changes
